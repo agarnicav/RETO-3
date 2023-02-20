@@ -7,10 +7,13 @@ Creamos una lista de números desde el número 2 hasta el natural n dado, ya que
 ### Ejemplo
 
 Buscaremos los números primos hasta el natural 30 
-![TABLA ](https://user-images.githubusercontent.com/124607325/219990953-8c488548-cee2-46cc-ad89-4215d802a27c.png)
+![LISTA DE NUMEROS](https://user-images.githubusercontent.com/124607325/219992130-36224699-1f6c-408d-bec9-ade17a104dfb.png)
+
 
 ## Segundo paso
 Sacamos de la lista aquellos numero multiplo de dos, ya que los multiplos de 2 son divisibles por más de dos números son números compuestos. Dejamos al dos ya que este si es un número primo solo es divisible por el 1 y el mismo.
+![TABLA ](https://user-images.githubusercontent.com/124607325/219992146-2ab052f7-1bb3-4db9-a8bf-32eb7d644255.png)
+
 
 ## Tercer Paso 
 Sacamos de la lista de igual manera aquellos múltiplos de 3, ya que son números compuestos. Al 3 lo dejamos ya que solo es divisible por el 1 y el mismo.
